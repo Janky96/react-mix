@@ -23,6 +23,9 @@ const Home = () => {
         <NavLink to="/clock-quiz">
           <Button variant="contained">Clock Quiz</Button>
         </NavLink>
+        <NavLink to="/bottle-order">
+          <Button variant="contained">Bottle Order</Button>
+        </NavLink>
       </Box>
     </>
   );

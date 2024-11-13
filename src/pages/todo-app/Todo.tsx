@@ -28,7 +28,7 @@ const Todo = () => {
     >
       <Stack sx={{ width: '600px', height: '500px' }}>
         <Typography variant="h3" fontWeight={500}>
-          Ciao a tutti
+          Take Notes
         </Typography>
         {tasks.map((task, idx) => (
           <Task
